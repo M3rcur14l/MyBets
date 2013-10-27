@@ -3,6 +3,6 @@
 
     <string name="app_name">MyBets</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">MyBets!</string>
+    <string name="my_bets">MyBets!</string>
 
 </resources>
